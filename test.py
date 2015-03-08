@@ -4,9 +4,10 @@ print("vikram")
 answer=input("what is potato")
 print(answer)
               
-answer=input("how old are you")
-print("answer)
-if
-      
-print("value")
+julie=input("how old are you")
+if julie=='15':
+    print("my brother is 15")
+
+
+
 
