@@ -4,7 +4,7 @@ if k=="the sky":
 elif k=="i love you":
         print("Thanks")
 else:
-    print("ok")
+    print("ok")	
     
 	
 
